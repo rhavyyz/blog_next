@@ -1,0 +1,10 @@
+.container
+{
+    border: 2px solid #b2b2ff;
+    border-radius: 5px;
+    padding: 1rem 3rem;
+    background-color: rgba(0, 0, 0, 0);
+    margin: 0.5rem 0;
+
+    max-width: 50vw;
+}

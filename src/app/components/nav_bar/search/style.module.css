@@ -1,0 +1,27 @@
+.search
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+.search_button
+{   
+    border-radius: 0px 5px 5px 0;
+    padding: 0.4vw;
+    width: 2.3vw;
+    height: 2.3vw;
+    /* border-left: none; */
+}
+.search_field
+{
+    /* margin-right: 1vw; */
+    padding: 0.2rem;
+    outline: none;
+    border-radius: 5px 0 0 5px;
+    width: 20vw;
+    height: 2.3vw;
+    /* border-right: none; */
+    outline: none;
+}
